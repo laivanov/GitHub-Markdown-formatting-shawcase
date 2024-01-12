@@ -18,7 +18,8 @@ Hope this is helpful :+1:
 8. **HashiCorp Configuration Language** `HCL Language`
 
 
-# Getting Started with [Terraform](> To get started with [Terraform]([url](https://developer.hashicorp.com/terraform/tutorials/cli)), it's important to understand some key terminology and concepts. Here are some fundamental terms and explanations.)
+# Getting Started 
+[Terraform]([url](https://developer.hashicorp.com/terraform/tutorials/cli)
 
 > To get started with Terraform it's important to understand some key terminology and concepts. Here are some fundamental terms and explanations.
 
