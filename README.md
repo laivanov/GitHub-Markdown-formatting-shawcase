@@ -1,4 +1,4 @@
-# This is a sample repository that showcases GitHub Markdown formatting that can help you have a good undersatnding of the [basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Hope this is helpfull for neebies out there. Enjoy :+1:
+## This is a sample repository that showcases GitHub Markdown formatting that can help you have a good undersatnding of the [basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Hope this is helpfull for neebies out there. Enjoy :+1:
 
 # Why Terraform ?
 
