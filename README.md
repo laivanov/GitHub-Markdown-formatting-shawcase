@@ -19,7 +19,7 @@ Hope this is helpful :+1:
 
 
 # Getting Started 
-[Terraform]([url](https://developer.hashicorp.com/terraform/tutorials/cli)
+Terraform [link]([url](https://developer.hashicorp.com/terraform/tutorials/cli))
 
 > To get started with Terraform it's important to understand some key terminology and concepts. Here are some fundamental terms and explanations.
 
