@@ -3,7 +3,7 @@ Hope this is helpfull, enjoy :+1:
 
 # Why Terraform ?
 
-> There are multiple reasons why Terraform is used over other ~~IAC TOOL~~ IaC tools but below are the **main** reasons.
+> There are multiple reasons why Terraform is used over other IaC tools but below are the **main** reasons.
 
 1. **Multi-Cloud Support**
 2. *Large Ecosystem*
