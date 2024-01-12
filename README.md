@@ -1,5 +1,8 @@
-### This is a sample repository that showcases GitHub Markdown formatting that can help you have a good undersatnding of the [basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). 
-Hope this is helpfull, enjoy :+1:
+### This is a sample repository that showcases GitHub Markdown formatting. 
+
+It provides a good undersatnding of how the [basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is applied/used. 
+
+Hope this is helpfull :+1:
 
 # Why Terraform ?
 
